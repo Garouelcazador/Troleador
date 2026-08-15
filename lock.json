@@ -1,8 +1,3 @@
 {
-    "serverId": "my-server",
-    "state": "disabled",
-    "sequence": 42,
-    "issuedAt": 1786752000,
-    "expiresAt": 1786752300,
-    "signature": "..."
+  "locked": true
 }
